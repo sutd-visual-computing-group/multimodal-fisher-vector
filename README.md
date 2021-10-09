@@ -1,6 +1,6 @@
 # Egocentric Activity Recognition with Multimodal Fisher Vector
 
-[Google Drive Link](https://drive.google.com/drive/folders/0B1M3TBhusmsSTW1XcmY4ZXVINEE?resourcekey=0-sas4e-RYlBirvIGiqHhHHA) for downloading the egocentric activity dataset proposed in ["Egocentric Activity Recognition with Multimodal Fisher Vector"](https://arxiv.org/abs/1601.06603)
+[Google Drive Link](https://drive.google.com/drive/folders/0B1M3TBhusmsSTW1XcmY4ZXVINEE?resourcekey=0-sas4e-RYlBirvIGiqHhHHA) for downloading the egocentric activity dataset proposed in [Egocentric Activity Recognition with Multimodal Fisher Vector](https://arxiv.org/abs/1601.06603)
 
 
 ## Citation
